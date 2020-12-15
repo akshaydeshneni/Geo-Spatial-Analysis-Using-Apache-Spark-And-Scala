@@ -1,0 +1,2 @@
+[debug] Subclass fingerprints: List((org.specs2.specification.SpecificationStructure,true,specs2 Specification fingerprint), (org.specs2.specification.SpecificationStructure,false,specs2 Specification fingerprint), (org.specs2.runner.FilesRunner,true,specs2 Specification files fingerprint), (org.specs2.runner.FilesRunner,false,specs2 Specification files fingerprint), (org.scalatest.Suite,false,org.scalatest.tools.Framework$$anon$1@53c23ca8))
+[debug] Annotation fingerprints: List((org.scalatest.WrapWith,false,org.scalatest.tools.Framework$$anon$2@56e39f4b))
